@@ -597,6 +597,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
 - [tempguru-event-staffing-ordering](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering) - Order W-2 temporary event staff across 345 US/Canada markets.
 - [posteahora](https://clawhub.ai/sashadiz/posteahora) - Schedule and publish social posts across every major network.
+- [marketing-mindset](https://clawhub.ai/axelfreeman/marketing-mindset) - Marketing decision framework for agents: positioning, offers, kill rules.
 > **[View all 107 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
