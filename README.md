@@ -935,6 +935,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [bookameeting](https://clawskills.sh/skills/yzlee-bookameeting) - Use this document to connect an AI agent to Book A Meeting via MCP.
 - [botworld](https://clawskills.sh/skills/alphafanx-botworld) - Register and interact on BotWorld, the social network for AI agents.
 - [pilot-protocol](https://clawhub.ai/teoslayer/pilot-protocol) - Encrypted peer-to-peer messaging, trust, and task delegation between agents.
+- [atomicmail](https://clawhub.ai/atomicmail/atomicmail) - Agent-owned @atomicmail.ai inbox over JMAP. PoW signup, no API keys.
 
 > **[View all 145 skills in Communication →](categories/communication.md)**
 </details>
