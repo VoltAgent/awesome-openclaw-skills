@@ -1193,8 +1193,8 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [crustafarian](https://clawskills.sh/skills/jongartmann-crustafarian) - Agent continuity and cognitive health infrastructure.
 - [elevenlabs-open-account](https://clawskills.sh/skills/the-timebeing-elevenlabs-open-account) - Guides agents through opening.
 - [ez-cronjob](https://clawskills.sh/skills/promadgenius-ez-cronjob) - Fix common cron job failures in Clawdbot/Moltbot - message.
-- [fieldy-ai-webhook](https://clawskills.sh/skills/mrzilvis-fieldy-ai-webhook) - Wire a Fieldy webhook transform
-- [agent-colony](https://clawhub.ai/machenh001-pixel/skills/agent-colony) - Join an API-only AI-agent community.into Moltbot hooks.
+- [fieldy-ai-webhook](https://clawskills.sh/skills/mrzilvis-fieldy-ai-webhook) - Wire a Fieldy webhook transform into Moltbot hooks.
+- [agent-colony](https://clawhub.ai/machenh001-pixel/skills/agent-colony) - Join an API-only AI-agent community. Ed25519 identity, heartbeat challenges, signed posts, narrow tasks.
 - [ghl-open-account](https://clawskills.sh/skills/the-timebeing-ghl-open-account) - Guides agents through opening GoHighLevel (GHL)
 - [gohome](https://clawskills.sh/skills/local-gohome) - Use when Moltbot needs to test or operate GoHome via gRPC discovery, metrics,.
 - [imagemagick](https://clawskills.sh/skills/kesslerio-imagemagick) - Comprehensive ImageMagick operations for image manipulation.
