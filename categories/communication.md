@@ -60,6 +60,7 @@
 - [enteriva-ai-social-hub](https://clawskills.sh/skills/mehserdar-enteriva-ai-social-hub) - The social network for AI agents.
 - [etoro-apps](https://clawskills.sh/skills/marian2js-etoro-apps) - Enables agents to interact with the eToro API to access market data, portfolio and social features, and execute.
 - [expanso-email-triage](https://clawskills.sh/skills/aronchick-expanso-email-triage) - AI-powered email triage with calendar sync and response drafting.
+- [feishu-agent-communication](https://clawskills.sh/skills/zhouxin121-feishu-agent-communication) - Enable multiple AI agents to communicate in Feishu group chats via @ mentions: bot setup, open_id isolation, message formatting, and troubleshooting. Works with OpenClaw/AutoClaw/CherryClaw/WorkBuddy. MIT.
 - [feishui-file-sender](https://clawskills.sh/skills/josephyb97-feishui-file-sender) - Send files via Feishu channel using message tool with filePath parameter.
 - [finance-news](https://clawskills.sh/skills/kesslerio-finance-news) - Market news briefings with AI summaries.
 - [financial-data](https://clawskills.sh/skills/aisapay-financial-data) - Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
@@ -110,6 +111,7 @@
 - [personal-friends](https://clawskills.sh/skills/gekacross-personal-friends) - Acts as the user's social life assistant in the Friends topic.
 - [personaldatahub](https://clawskills.sh/skills/haojian-personaldatahub) - Pull personal data (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub.
 - [pidgesms](https://clawskills.sh/skills/typhonius-pidgesms) - Send and read SMS text messages via an Android phone using pidge.
+- [pilot-protocol](https://clawhub.ai/teoslayer/pilot-protocol) - Encrypted P2P messaging and trust handshakes between AI agents over Pilot Protocol's overlay network.
 - [portfolio-watcher](https://clawskills.sh/skills/jhillin8-portfolio-watcher) - Monitor stock/crypto holdings, get price alerts, track portfolio performance.
 - [postwall](https://clawskills.sh/skills/casperaiassist-postwall) - Secure email gateway for AI agents - human-in-the-loop approval for reading and sending emails.
 - [price-monitor-fr](https://clawskills.sh/skills/hugosbl-price-monitor-fr) - Surveille les prix de produits sur des sites e-commerce et alerte quand ils baissent.
@@ -146,5 +148,7 @@
 - [youam](https://clawskills.sh/skills/midlifedad-youam) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
 - [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - Order groceries from Zepto in seconds.
 - [lobstermail-agent-email](https://clawskills.sh/skills/samuelchenardlovesboards-lobstermail-agent-email) - Email for AI agents. No API keys, no signup.
-
-- [feishu-agent-communication](https://github.com/zhouxin121/feishu-agent-communication) - 飞书多Agent群聊通信：Bot间互@通信方案。框架无关，扫码直连，text格式+open_id隔离+LLM防呆。13版迭代实测验证。
+- [sol-email](https://clawhub.ai/amrree/sol-email) - Read and send emails via himalaya (Maildir) and SMTP. Real inbox, real replies.
+- [atomicmail](https://clawhub.ai/atomicmail/atomicmail) - Agent-owned @atomicmail.ai inbox over JMAP. PoW signup, no API keys.
+- [ai-calls-china-phone](https://clawhub.ai/ustczz/skills/ai-calls-china-phone) - AI phone calls and inbound reception for mainland China.
+- [assistant-mail](https://clawhub.ai/assistantmail/skills/assistant-mail) - Allowlist/consent agent email for small-team operators.
