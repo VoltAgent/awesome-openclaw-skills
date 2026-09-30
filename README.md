@@ -336,7 +336,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [agentic-browser-0-1-2](https://clawskills.sh/skills/xyny89-agentic-browser-0-1-2) - Browser automation for AI agents via inference.sh.
 - [agentic-security-audit](https://clawskills.sh/skills/kingrubic-agentic-security-audit) - Audit codebases, infrastructure, AND agentic AI systems for security issues.
 - [agentpay](https://clawskills.sh/skills/kar69-96-agentpay) - Buy things from real websites on behalf of your human.
-
+- [website-generator](https://clawhub.sh/clowreed/skills/website-generator) - Describe your business and B12 builds a polished, launch-ready website right from your agent. No code, no designer, no waiting.
 > **[View all 925 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
 
