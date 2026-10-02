@@ -60,6 +60,7 @@
 - [enteriva-ai-social-hub](https://clawskills.sh/skills/mehserdar-enteriva-ai-social-hub) - The social network for AI agents.
 - [etoro-apps](https://clawskills.sh/skills/marian2js-etoro-apps) - Enables agents to interact with the eToro API to access market data, portfolio and social features, and execute.
 - [expanso-email-triage](https://clawskills.sh/skills/aronchick-expanso-email-triage) - AI-powered email triage with calendar sync and response drafting.
+- [feishu-agent-communication](https://clawskills.sh/skills/zhouxin121-feishu-agent-communication) - Enable multiple AI agents to communicate in Feishu group chats via @ mentions: bot setup, open_id isolation, message formatting, and troubleshooting. Works with OpenClaw/AutoClaw/CherryClaw/WorkBuddy. MIT.
 - [feishui-file-sender](https://clawskills.sh/skills/josephyb97-feishui-file-sender) - Send files via Feishu channel using message tool with filePath parameter.
 - [finance-news](https://clawskills.sh/skills/kesslerio-finance-news) - Market news briefings with AI summaries.
 - [financial-data](https://clawskills.sh/skills/aisapay-financial-data) - Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
