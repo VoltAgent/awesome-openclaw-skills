@@ -95,7 +95,7 @@
 - [hedera-tx-builder](https://clawskills.sh/skills/harleyscodes-hedera-tx-builder) - Build and sign Hedera transactions.
 - [homeassistant-assist](https://clawskills.sh/skills/developmentcats-homeassistant-assist) - Control Home Assistant smart home devices using the Assist (Conversation) API.
 - [iyeque-audio-processing](https://clawskills.sh/skills/iyeque-iyeque-audio-processing) - Audio ingestion, analysis, transformation, and generation (Transcribe, TTS, VAD, Features).
-- [lambda-lang](https://clawhub.ai/voidborne-d/skills/lambda-lang) - Native agent-to-agent language with 340+ semantic atoms across 7 domains — 3x character compression vs natural language for compact multi-agent messaging. - Audio ingestion, analysis, transformation, and generation (Transcribe, TTS, VAD, Features).
+- [lambda-lang](https://clawhub.ai/voidborne-d/skills/lambda-lang) - Native agent-to-agent language with 340+ semantic atoms across 7 domains — 3x character compression vs natural language for compact multi-agent messaging.
 - [leviathan-news](https://clawskills.sh/skills/zcor-leviathan-news) - Crowdsourced crypto news API.
 - [lieutenant](https://clawskills.sh/skills/jd-delatorre-lieutenant) - AI agent security and trust verification.
 - [lifi-crosschain](https://clawskills.sh/skills/rhlsthrm-lifi-crosschain) - Cross-chain token swaps and bridges via the LI.FI protocol.
