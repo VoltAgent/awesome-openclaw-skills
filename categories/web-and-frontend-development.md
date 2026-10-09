@@ -99,6 +99,7 @@
 - [baml-codegen](https://clawskills.sh/skills/killerapp-baml-codegen) - Use when generating BAML code for type-safe LLM extraction, classification, RAG, or agent workflows - creates.
 - [baoyu-post-to-x](https://clawskills.sh/skills/liuhedev-baoyu-post-to-x) - Posts content and articles to X (Twitter).
 - [benos-bootstrap](https://clawskills.sh/skills/benmjohnson69-benos-bootstrap) - BenOS Bootstrap is a system-initialization skill for OpenClaw-based agent stacks.
+- [bestax-layout-scaffold](https://clawskills.sh/skills/allxsmith-bestax-layout-scaffold) - React forms, layouts, theming and icons with Bestax on Bulma.
 - [bitrefill-website](https://clawskills.sh/skills/marcopesani-bitrefill-website) - Help users accomplish tasks on Bitrefill (bitrefill.com): browse and search gift cards, mobile top-ups, and eSIMs.
 - [bitrix24-apiskill](https://clawskills.sh/skills/vrtalex-bitrix24-apiskill) - Design, implement, debug, and harden integrations between AI agents and Bitrix24 REST API (webhooks, OAuth 2.0.
 - [bonero-miner](https://clawskills.sh/skills/happybigmtn-bonero-miner) - Mine Bonero - private cryptocurrency for AI agents.
