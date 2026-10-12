@@ -600,6 +600,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [upload-post](https://clawhub.ai/victorcavero14/upload-post) - Publish and schedule social media posts through one API.
 - [breakreach](https://clawhub.ai/samuelrondot/breakreach) - Schedule and publish posts on 19 social networks.
 - [email-marketing-bible](https://clawhub.ai/cosmoblk/email-marketing-bible) - Data-backed email marketing: flows, deliverability, copy and ESP control.
+- [fuxux-openclaw-skill](https://clawhub.ai/abogitoff/fuxux-openclaw-skill) - Schedule and publish social media posts to 12 platforms.
 > **[View all 108 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
