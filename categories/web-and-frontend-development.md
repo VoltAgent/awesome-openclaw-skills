@@ -404,6 +404,7 @@
 - [kj-ui-ux-pro-max](https://clawskills.sh/skills/kjaylee-kj-ui-ux-pro-max) - UI/UX design intelligence and implementation guidance for building polished interfaces.
 - [kj-web-deploy-github](https://clawskills.sh/skills/kjaylee-kj-web-deploy-github) - Create and deploy single-page static websites to GitHub Pages with autonomous workflow.
 - [kj-web-design-guidelines](https://clawskills.sh/skills/kjaylee-kj-web-design-guidelines) - Review UI code for Web Interface Guidelines compliance.
+- [kleap](https://clawhub.ai/kleap/kleap) - Build, edit and publish live websites from your agent.
 - [klientenportal](https://clawskills.sh/skills/odrobnik-klientenportal) - Automate RZL Klientenportal.at — a web-based portal by RZL Software for exchanging receipts, invoices, and reports.
 - [knowledge-base-collector](https://clawskills.sh/skills/reed1898-knowledge-base-collector) - Collect and organize a personal knowledge base from URLs (web/X/WeChat) and screenshots.
 - [knowledge-base-collector](https://clawskills.sh/skills/ryanhong666-knowledge-base-collector) - Collect and organize a personal knowledge base from URLs (web/X/WeChat) and screenshots.
