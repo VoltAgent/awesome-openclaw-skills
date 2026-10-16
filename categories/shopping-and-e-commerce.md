@@ -50,3 +50,4 @@
 - [turnip-prophet](https://clawskills.sh/skills/nicholasjackson-turnip-prophet) - Predict Animal Crossing New Horizons turnip prices using the game's exact algorithm.
 - [whop-cli](https://clawskills.sh/skills/g9pedro-whop-cli) - Manage Whop digital products store — create products, plans, track payments, manage memberships.
 - [vistoya](https://clawhub.ai/vistoya/vistoya-fashion) - search engine for fashion/apparel discovery/shopping based on semantic or structured filter.
+- [takeout-coupon](https://clawhub.ai/moooai/takeout-coupon) - Chinese food-delivery coupon codes for Meituan, Ele.me and JD.

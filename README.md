@@ -1037,6 +1037,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [csvtoexcel](https://clawskills.sh/skills/xuanguan2020-csvtoexcel) - Convert CSV files to professionally formatted Excel workbooks with Chinese character support, automatic formatting.
 - [dupe](https://clawskills.sh/skills/crisanmm-dupe) - Uses dupe.com APIs in order to find similar products for the product found in the input URL given by the user.
 - [eachlabs-product-visuals](https://clawskills.sh/skills/eftalyurtseven-eachlabs-product-visuals) - Generate e-commerce product photography and videos.
+- [takeout-coupon](https://clawhub.ai/moooai/takeout-coupon) - Chinese food-delivery coupon codes for Meituan, Ele.me and JD.
 
 > **[View all 51 skills in Shopping & E-commerce →](categories/shopping-and-e-commerce.md)**
 </details>
