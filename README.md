@@ -732,6 +732,8 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
 
 > **[View all 83 skills in Media & Streaming →](categories/media-and-streaming.md)**
+- [levea-ai-video-editor](https://clawhub.ai/brajendrak00068/levea-ai-video-editor) - Autonomous AI video editor for clips, captions, reframing, and exports.
+
 </details>
 
 <details>
