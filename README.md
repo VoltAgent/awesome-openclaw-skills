@@ -1020,6 +1020,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [allstock-data](https://clawskills.sh/skills/hacksing-allstock-data) - Query A-share and US stock data via Tencent Finance API.
 - [amadeus-hotels](https://clawskills.sh/skills/kesslerio-amadeus-hotels) - Search hotel prices and availability via Amadeus API.
 - [amazon-competitor-analyzer](https://clawskills.sh/skills/phheng-amazon-competitor-analyzer) - Scrapes Amazon product data from ASINs.
+- [amazon-keyword-research](https://clawhub.ai/phheng/amazon-keyword-research) - Amazon long-tail keywords, competition and opportunity scoring.
 - [amazon-orders](https://clawskills.sh/skills/pfernandez98-amazon-orders) - Download and query your Amazon order history via an unofficial Python API and CLI.
 - [anylist](https://clawskills.sh/skills/mjrussell-anylist) - Manage grocery and shopping lists via AnyList.
 - [atoship](https://clawskills.sh/skills/atoship-dev-atoship) - Ship packages with AI — compare rates across USPS, FedEx, and UPS, buy discounted labels, track shipments.
