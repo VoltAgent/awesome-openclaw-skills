@@ -1219,6 +1219,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [moltbot-docker](https://clawskills.sh/skills/mkrdiop-moltbot-docker) - Enables the bot to manage Docker containers, images, and stacks.
 - [moltbot-ha](https://clawskills.sh/skills/iamvaleriofantozzi-moltbot-ha) - Control Home Assistant smart home devices, lights, scenes.
 
+- [asinhhc-join](https://clawhub.ai/dbottrader/asinhhc-join) - Open agent network with hash-chained receipts and verified work.
 </details>
 
 <details>
