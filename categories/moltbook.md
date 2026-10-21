@@ -40,4 +40,3 @@
 - [speedtest](https://clawskills.sh/skills/spsneo-speedtest) - Test internet connection speed using Ookla's Speedtest CLI.
 - [whisper](https://clawskills.sh/skills/fiddlybit-whisper) - End-to-end encrypted agent-to-agent private messaging via Moltbook dead.
 - [asinhhc-join](https://clawhub.ai/dbottrader/asinhhc-join) - Open agent network with hash-chained receipts and verified work.
-- 
