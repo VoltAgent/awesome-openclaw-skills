@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**171 skills**
+**173 skills**
 
 - [aada](https://clawskills.sh/skills/rylena-aada) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://clawskills.sh/skills/fspecii-ace-music) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.
@@ -175,3 +175,5 @@
 - [creaa-ai](https://clawskills.sh/skills/yys2024-creaa-ai) - Generate and edit images + generate videos via Creaa API (Nano Banana 2, Sora 2, Seedance 2.0, Veo 3.1).
 - [image-gen-guide](https://clawhub.ai/amrree/image-gen-guide) - Complete guide to local AI image generation with Ollama — no API keys, 100% private.
 - [openshorts](https://clawhub.ai/mutonby/openshorts) - Turn long videos into vertical clips and publish them.
+- [ai-photo-restyler](https://clawhub.ai/beatra-ai/ai-photo-restyler) - Restyle photos as anime, manga, or watercolor, keeping subjects recognizable.
+- [viral-video-teardown-remake](https://clawhub.ai/beatra-ai/viral-video-teardown-remake) - Break down a short video's beats, then remake it.
