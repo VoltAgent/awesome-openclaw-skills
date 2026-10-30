@@ -171,7 +171,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
 | [Image & Video Generation](#image--video-generation) (173) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (344) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
+| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (53) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
@@ -493,8 +493,9 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [glasser](https://clawhub.ai/glasser-ai/glasser) - Search, price and run 1,000+ paid data APIs, one key.
 - [openclaw-search-skills](https://clawhub.ai/blessonism/skills/openclaw-search-skills) - Multi-source deep search with structured research reports.
 - [ask-human-expert](https://clawhub.ai/maxko87/ask-human-expert) - Ask human experts for written or voice answers, or calls.
+- [keenable-web-search](https://clawhub.ai/keenable/keenable-web-search) - Keyless web search for research, news and docs via Keenable.
 
-> **[View all 344 skills in Search & Research →](categories/search-and-research.md)**
+> **[View all 345 skills in Search & Research →](categories/search-and-research.md)**
 </details>
 
 <details>
