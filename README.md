@@ -246,6 +246,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [emulo](https://clawhub.ai/ohad6k/emulo) - Load your mined personal profile so agents work like you.
 - [orca-replay](https://clawhub.ai/xizhuomengcontin/orca-replay) - Replay and debug past coding-agent runs from their recordings.
 
+- [zambo](https://clawhub.ai/zambodotdev/skills/zambo) - Give your AI hands: 120 MCP tools via one URL.
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
 
