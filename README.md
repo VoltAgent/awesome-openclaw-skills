@@ -169,7 +169,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
-| [Image & Video Generation](#image--video-generation) (171) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
+| [Image & Video Generation](#image--video-generation) (173) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (344) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
@@ -412,7 +412,9 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [modellix](https://clawhub.ai/modellix/modellix) - Unified API for AI image and video generation.
 - [riffkit](https://clawhub.ai/riffkit/riffkit) - Riff a winning TikTok into your own product video.
 - [openshorts](https://clawhub.ai/mutonby/openshorts) - Turn long videos into vertical clips and publish them.
-> **[View all 171 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
+- [ai-photo-restyler](https://clawhub.ai/beatra-ai/ai-photo-restyler) - Restyle photos as anime, manga, or watercolor, keeping subjects recognizable.
+- [viral-video-teardown-remake](https://clawhub.ai/beatra-ai/viral-video-teardown-remake) - Break down a short video's beats, then remake it.
+> **[View all 173 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
 <details>
