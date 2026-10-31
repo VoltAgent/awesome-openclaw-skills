@@ -605,6 +605,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [breakreach](https://clawhub.ai/samuelrondot/breakreach) - Schedule and publish posts on 19 social networks.
 - [email-marketing-bible](https://clawhub.ai/cosmoblk/email-marketing-bible) - Data-backed email marketing: flows, deliverability, copy and ESP control.
 - [fuxux-openclaw-skill](https://clawhub.ai/abogitoff/fuxux-openclaw-skill) - Schedule and publish social media posts to 12 platforms.
+- [whobot-phonecall-skill](https://clawhub.ai/whobot/whobot-phonecall-skill) - Find, try and build AI phone agents for real calls.
 > **[View all 108 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
