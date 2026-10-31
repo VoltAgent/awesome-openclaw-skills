@@ -149,6 +149,8 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 **Recommended tools:**
 
+- [OshoosiClaw (OpenOsoosi)](https://github.com/oyesanyf/OshoosiClaw) - Decentralized Rust EDR and 7-Ring AI agent containment engine for sandboxing untrusted OpenClaw skills, sealing API keys out-of-band, and scanning skill payloads with YARA-X.
+
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
   
