@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**1202 skills**
+**1203 skills**
 
 - [0g-compute](https://clawskills.sh/skills/in-liberty420-0g-compute) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://clawskills.sh/skills/0isone-0protocol) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
@@ -1166,3 +1166,4 @@
 - [zoom-calendar](https://clawskills.sh/skills/shaharsha-zoom-calendar) - Create Zoom meetings and add them to Google Calendar events with proper conferenceData (icon, video entry, notes).
 - [zown-gemini-governor](https://clawskills.sh/skills/gtovd-zown-gemini-governor) - A high-fidelity token management and model stabilization skill.
 - [zyla-api-hub-skill](https://clawskills.sh/skills/alebrega-zyla-api-hub-skill) - Zyla API Hub Skill — Turn your OpenClaw AI agent into a real-world operator.
+- [ponder](https://clawhub.ai/quinnod345/ponder) - Coverage-gated multi-pass deliberation and code review for coding agents.
