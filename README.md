@@ -165,7 +165,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | | | |
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (108) | [Communication](#communication) (146) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (207) | [Speech & Transcription](#speech--transcription) (48) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1185) | [Productivity & Tasks](#productivity--tasks) (207) | [Speech & Transcription](#speech--transcription) (48) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
@@ -247,7 +247,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [orca-replay](https://clawhub.ai/xizhuomengcontin/orca-replay) - Replay and debug past coding-agent runs from their recordings.
 
 - [zambo](https://clawhub.ai/zambodotdev/skills/zambo) - Give your AI hands: 120 MCP tools via one URL.
-> **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
+- [ponder](https://clawhub.ai/quinnod345/ponder) - Coverage-gated multi-pass deliberation and code review for coding agents.
+> **[View all 1201 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
 
 <details open>
