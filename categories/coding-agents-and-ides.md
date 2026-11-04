@@ -311,6 +311,8 @@
 - [deapi](https://clawskills.sh/skills/zrewolwerowanykaloryfer-deapi) - The cheapest AI media API on the market.
 - [deen-time](https://clawskills.sh/skills/fermions75-deen-time) - Get daily Islamic prayer (Salah) times, Iftar, and Suhoor schedules for any location worldwide.
 - [deepseek](https://clawskills.sh/skills/barisoezcan1905-deepseek) - Integrates DeepSeek API with OpenClaw agents.
+- [deja-reflect](https://clawhub.ai/vshulcz/deja-reflect) - Review session decisions and recurring command failures, then save durable project rules with deja remember.
+- [deja-search](https://clawhub.ai/vshulcz/deja-search) - Search past coding agent sessions across 44 harnesses locally.
 - [delegation](https://clawskills.sh/skills/michaelmonetized-delegation) - Architecture-first workflow for delegating complex projects to AI coding agents.
 - [dellight-cio-intelligence](https://clawskills.sh/skills/arthurelgindell-dellight-cio-intelligence) - Chief Intelligence Officer operations for AI startups.
 - [dellight-intelligence-ops](https://clawskills.sh/skills/arthurelgindell-dellight-intelligence-ops) - Chief Intelligence Officer operations for AI startups.
