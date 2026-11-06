@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**173 skills**
+**174 skills**
 
 - [aada](https://clawskills.sh/skills/rylena-aada) - Create and send fun, personality-rich promotional messages from one agent to the Moltbook audience.
 - [ace-music](https://clawskills.sh/skills/fspecii-ace-music) - Generate AI music using ACE-Step 1.5 via ACE Music's free API.
@@ -177,3 +177,4 @@
 - [openshorts](https://clawhub.ai/mutonby/openshorts) - Turn long videos into vertical clips and publish them.
 - [ai-photo-restyler](https://clawhub.ai/beatra-ai/ai-photo-restyler) - Restyle photos as anime, manga, or watercolor, keeping subjects recognizable.
 - [viral-video-teardown-remake](https://clawhub.ai/beatra-ai/viral-video-teardown-remake) - Break down a short video's beats, then remake it.
+- [archlang](https://clawhub.ai/chanmeng666/archlang) - Floor plans as code; the compiler draws and checks them.
