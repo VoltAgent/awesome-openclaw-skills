@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**185 skills**
+**162 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -108,6 +108,7 @@
 - [meeting-autopilot](https://clawskills.sh/skills/tkuehnl-meeting-autopilot) - Turn meeting transcripts into operational outputs — action items, decisions, follow-up email drafts, and ticket.
 - [meeting-summarizer](https://clawskills.sh/skills/claudiodrusus-meeting-summarizer) - Transform raw meeting transcripts into structured, actionable summaries.
 - [metacognition](https://clawskills.sh/skills/meimakes-metacognition) - Self-reflection engine for AI agents.
+- [memory-checkup](https://clawskills.sh/skills/thomaszhou22-memory-checkup) - Audit and repair an AI agent's memory corpus for consistency.
 - [mh-openai-whisper](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-openai-whisper) - Local speech-to-text with the Whisper CLI (no API key).
 - [mh-openai-whisper-api](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-openai-whisper-api) - Transcribe audio via OpenAI Audio Transcriptions API (Whisper).
 - [mnemon](https://clawskills.sh/skills/grivn-mnemon) - Persistent memory CLI for LLM agents.

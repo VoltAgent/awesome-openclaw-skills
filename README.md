@@ -166,7 +166,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (108) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (207) | [Speech & Transcription](#speech--transcription) (48) |
-| [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
+| [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (162) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
 | [Image & Video Generation](#image--video-generation) (173) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
@@ -672,7 +672,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [agentbase](https://clawskills.sh/skills/revmischa-agentbase) - Shared knowledge base for AI agents via MCP.
 - [avoid-ai-writing](https://clawhub.ai/conorbronsdon/skills/avoid-ai-writing) - Audit and rewrite text to remove AI writing patterns.
 - [model-hierarchy-skill](https://clawhub.ai/zscole/skills/model-hierarchy-skill) - Route tasks to cheaper models based on complexity.
-> **[View all 185 skills in AI & LLMs →](categories/ai-and-llms.md)**
+> **[View all 162 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
