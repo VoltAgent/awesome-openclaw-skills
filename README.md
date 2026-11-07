@@ -164,7 +164,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (109) | [Communication](#communication) (146) |
+| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (110) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (207) | [Speech & Transcription](#speech--transcription) (48) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
@@ -605,7 +605,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [breakreach](https://clawhub.ai/samuelrondot/breakreach) - Schedule and publish posts on 19 social networks.
 - [email-marketing-bible](https://clawhub.ai/cosmoblk/email-marketing-bible) - Data-backed email marketing: flows, deliverability, copy and ESP control.
 - [fuxux-openclaw-skill](https://clawhub.ai/abogitoff/fuxux-openclaw-skill) - Schedule and publish social media posts to 12 platforms.
-> **[View all 109 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
+> **[View all 110 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
 <details>
