@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**207 skills**
+**208 skills**
 
 - [4to1-planner](https://clawskills.sh/skills/qingxuantang-4to1-planner) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://clawskills.sh/skills/blackstorm-4todo) - Manage 4todo (4to.do) from chat.
@@ -214,3 +214,4 @@
 - [FlowBoard](https://clawhub.ai/rasimme/plugins/flowboard) - Persistent per-project context and Kanban for agents.
 - [sol-scribe](https://clawhub.ai/amrree/sol-scribe) - Book writing companion for long-form creative projects — chapter planning, narrative consistency, and AI-assisted drafting.
 - [scvd-tab](https://clawhub.ai/seancrecord/scvd-tab) - Track tool spending, trial conversions, and unused subscriptions for AI agents.
+- [frihet-erp](https://clawhub.ai/frihet-io/frihet-erp) - AI-native ERP for business operations, documents, CRM, and team workflows.
