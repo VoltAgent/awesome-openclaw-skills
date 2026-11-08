@@ -978,6 +978,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [elevenlabs-voices](https://clawskills.sh/skills/robbyczgw-cla-elevenlabs-voices) - High-quality voice synthesis with 18 personas, 32.
 - [youtube-transcript-speaker-diarization](https://clawhub.ai/patelnav/youtube-transcript-speaker-diarization) - Speaker-labeled YouTube transcripts via the diarize.io API.
 - [bulktranscripts-youtube](https://clawhub.ai/pratie/bulktranscripts-youtube) - YouTube transcripts for single videos, whole channels and playlists.
+- [youtube-transcript](https://clawhub.ai/tubeagentkit/youtube-transcript) - YouTube transcripts, search, channels and playlists via REST API.
 
 > **[View all 48 skills in Speech & Transcription →](categories/speech-and-transcription.md)**
 </details>
