@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**185 skills**
+**186 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -165,3 +165,4 @@
 - [zapper-api](https://clawskills.sh/skills/zivhm-zapper-api) - Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API.
 - [zhipu-asr](https://clawskills.sh/skills/franklu0819-lang-zhipu-asr) - Automatic Speech Recognition (ASR) using Zhipu AI (BigModel) GLM-ASR model.
 - [sol-self-learning](https://clawhub.ai/amrree/sol-self-learning) - Persistent memory and self-improvement for AI agents. Writes and refines its own memory files over time.
+- [never-twice](https://clawhub.ai/cognicore-dev/skills/never-twice) - Learns from corrected mistakes so agents never repeat them.
