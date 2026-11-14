@@ -368,9 +368,9 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [agentic-devops](https://clawskills.sh/skills/tkuehnl-agentic-devops) - Production-grade agent DevOps toolkit — Docker, process management, log analysis, and health monitoring.
 - [agentkeys](https://clawskills.sh/skills/alexandr-belogubov-agentkeys) - Secure credential proxy for AI agents.
 - [agentmemory](https://clawskills.sh/skills/badaramoni-agentmemory) - End-to-end encrypted cloud memory for AI agents.
-- [undo-first](https://clawskills.sh/skills/thiennhant95-undo-first) - No undo path, no action: sha256-verified snapshots, risk gate demanding compensation plans for irreversible actions (email/deploy/payment), byte-identical restore with tamper refusal, audit journal. Engine self-proves zero execution primitives.
+- [undo-first](https://clawhub.ai/thiennhant95/undo-first) - No undo path, no action: snapshots, risk gate, verified restore.
 
-> **[View all 392 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
+> **[View all 394 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
 </details>
 
 <details>
@@ -1188,12 +1188,12 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [expanso-tls-inspect](https://clawskills.sh/skills/aronchick-expanso-tls-inspect) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
-- [skill-firewall](https://clawskills.sh/skills/thiennhant95-skill-firewall) - Antivirus for agent skills: static scanner with 30 rules across 6 threat families, decodes multi-layer base64/hex/homoglyph payloads, context engine to avoid false positives on security docs, SARIF output. Verified: 100% detection on 18 malicious fixtures, 0 false positives on 15 benign fixtures, catches Snyk's real malicious-skill corpus.
 - [skill-provenance](https://clawskills.sh/skills/snapsynapse-skill-provenance) - Version tracking and integrity verification for skill bundles
 - [trentclaw](https://clawskills.sh/skills/trent-ai-release-trentclaw) - Finds chained attack paths across config, secrets, and permissions.
 
 - [thumbgate](https://clawhub.ai/igorganapolsky/thumbgate) - Blocks known-bad agent tool calls before they run.
-> **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
+- [skill-firewall](https://clawhub.ai/thiennhant95/skill-firewall) - Antivirus for agent skills: static scanner, 30 rules, SARIF output.
+> **[View all 55 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
 <details>

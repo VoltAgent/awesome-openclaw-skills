@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**54 skills**
+**55 skills**
 
 - [1password](https://clawskills.sh/skills/steipete-1password) - Set up and use 1Password CLI (op).
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.
@@ -58,3 +58,4 @@
 - [xpr-agent-operator](https://clawskills.sh/skills/paulgnz-xpr-agent-operator) - Operate an autonomous AI agent on XPR Network's trustless registry.
 - [xproof](https://clawskills.sh/skills/jasonxkensei-xproof) - Certify agent outputs on the MultiversX blockchain.
 - [thumbgate](https://clawhub.ai/igorganapolsky/thumbgate) - Blocks known-bad agent tool calls before they run.
+- [skill-firewall](https://clawhub.ai/thiennhant95/skill-firewall) - Antivirus for agent skills: static scanner, 30 rules, SARIF output.
