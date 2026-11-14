@@ -168,10 +168,10 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (207) | [Speech & Transcription](#speech--transcription) (48) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
-| [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
+| [DevOps & Cloud](#devops--cloud) (394) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
 | [Image & Video Generation](#image--video-generation) (173) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
+| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (55) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (53) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
@@ -368,6 +368,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [agentic-devops](https://clawskills.sh/skills/tkuehnl-agentic-devops) - Production-grade agent DevOps toolkit — Docker, process management, log analysis, and health monitoring.
 - [agentkeys](https://clawskills.sh/skills/alexandr-belogubov-agentkeys) - Secure credential proxy for AI agents.
 - [agentmemory](https://clawskills.sh/skills/badaramoni-agentmemory) - End-to-end encrypted cloud memory for AI agents.
+- [undo-first](https://clawskills.sh/skills/thiennhant95-undo-first) - No undo path, no action: sha256-verified snapshots, risk gate demanding compensation plans for irreversible actions (email/deploy/payment), byte-identical restore with tamper refusal, audit journal. Engine self-proves zero execution primitives.
 
 > **[View all 392 skills in DevOps & Cloud →](categories/devops-and-cloud.md)**
 </details>
@@ -1187,6 +1188,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [expanso-tls-inspect](https://clawskills.sh/skills/aronchick-expanso-tls-inspect) - Inspect TLS certificate (expiry, SANs, chain, cipher)
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
+- [skill-firewall](https://clawskills.sh/skills/thiennhant95-skill-firewall) - Antivirus for agent skills: static scanner with 30 rules across 6 threat families, decodes multi-layer base64/hex/homoglyph payloads, context engine to avoid false positives on security docs, SARIF output. Verified: 100% detection on 18 malicious fixtures, 0 false positives on 15 benign fixtures, catches Snyk's real malicious-skill corpus.
 - [skill-provenance](https://clawskills.sh/skills/snapsynapse-skill-provenance) - Version tracking and integrity verification for skill bundles
 - [trentclaw](https://clawskills.sh/skills/trent-ai-release-trentclaw) - Finds chained attack paths across config, secrets, and permissions.
 
