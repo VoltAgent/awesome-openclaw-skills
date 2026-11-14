@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**393 skills**
+**394 skills**
 
 - [0x0-messenger](https://clawskills.sh/skills/eijiac24-0x0-messenger) - Send and receive P2P messages using disposable numbers and PINs.
 - [12306](https://clawskills.sh/skills/kirorab-12306) - Query China Railway 12306 for train schedules, remaining tickets, and station info.
@@ -380,3 +380,4 @@
 - [ztp](https://clawskills.sh/skills/thomastrumpp-ztp) - A mandatory security audit skill for validating new code, skills, and MCP servers against the SEP-2026 Zero Trust.
 - [zyfai-sdk](https://clawskills.sh/skills/pauldefi-zyfai-sdk) - Earn yield on any Ethereum wallet on Base, Arbitrum, and Plasma.
 - [clawmetry](https://clawhub.ai/vivekchand/clawmetry) - Local observability dashboard for OpenClaw sessions, tokens, and costs.
+- [undo-first](https://clawhub.ai/thiennhant95/undo-first) - No undo path, no action: snapshots, risk gate, verified restore.
