@@ -89,6 +89,8 @@ Include the ClawHub link for your skill (e.g. `https://clawhub.ai/steipete/slack
 
 ## OpenClaw Ecosystem Tools
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Live music venue directory and MCP server for touring logistics, room layouts, and booking contacts.
+
 ### 🕸️ Web Crawling & Data Infrastructure
 
 AI agents are only as good as the web data they can reach. Crawling at scale means dealing with JavaScript-heavy pages, rotating proxies, and anti-bot systems — you can build all that yourself, or use an API that handles it and hands your agent clean, ready-to-use data.
