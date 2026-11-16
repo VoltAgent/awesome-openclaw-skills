@@ -409,7 +409,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
-- [modellix](https://clawhub.ai/modellix/modellix) - Unified API for AI image and video generation.
+- [modellix-design](https://clawhub.ai/modellix/modellix-design) - Run Modellix image, video, and audio workflows.
 - [riffkit](https://clawhub.ai/riffkit/riffkit) - Riff a winning TikTok into your own product video.
 - [openshorts](https://clawhub.ai/mutonby/openshorts) - Turn long videos into vertical clips and publish them.
 - [ai-photo-restyler](https://clawhub.ai/beatra-ai/ai-photo-restyler) - Restyle photos as anime, manga, or watercolor, keeping subjects recognizable.
