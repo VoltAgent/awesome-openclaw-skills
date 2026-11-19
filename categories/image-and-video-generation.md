@@ -110,7 +110,7 @@
 - [mindmap-generator](https://clawskills.sh/skills/parasharnagle-mindmap-generator) - Generates visual mindmap images from conversations, goals, decisions, and daily priorities — delivered as PNG.
 - [mixtiles-it](https://clawskills.sh/skills/saharcarmel-mixtiles-it) - Send a photo to Mixtiles for ordering wall tiles.
 - [moonfunsdk](https://clawskills.sh/skills/moonnfunofficial-moonfunsdk) - Professional Python SDK for creating and trading Meme tokens on Binance Smart Chain with AI-powered image generation.
-- [modellix](https://clawhub.ai/modellix/modellix) - Unified API for AI image and video generation.
+- [modellix-design](https://clawhub.ai/modellix/modellix-design) - Run Modellix image, video, and audio workflows.
 - [nanobanana-pro-fallback](https://clawskills.sh/skills/yazelin-nanobanana-pro-fallback) - Nano Banana Pro with auto model fallback — generate/edit images via Gemini Image API.
 - [nk-images-search](https://clawskills.sh/skills/tompltw-nk-images-search) - Search 1+ million free high-quality AI stock photos.
 - [nyne-deep-research](https://clawskills.sh/skills/michaelfanous2-nyne-deep-research) - Research any person using the Nyne Deep Research API.
