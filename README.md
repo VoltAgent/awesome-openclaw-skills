@@ -171,7 +171,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
 | [Image & Video Generation](#image--video-generation) (173) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
+| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (55) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (53) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
@@ -1192,7 +1192,9 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [trentclaw](https://clawskills.sh/skills/trent-ai-release-trentclaw) - Finds chained attack paths across config, secrets, and permissions.
 
 - [thumbgate](https://clawhub.ai/igorganapolsky/thumbgate) - Blocks known-bad agent tool calls before they run.
-> **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
+- [clawvet](https://clawhub.ai/MohibShaikh/clawvet) - Offline AST security scanner and install gate for skills.
+
+> **[View all 55 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
 <details>
