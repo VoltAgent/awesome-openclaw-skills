@@ -381,4 +381,3 @@
 - [zyfai-sdk](https://clawskills.sh/skills/pauldefi-zyfai-sdk) - Earn yield on any Ethereum wallet on Base, Arbitrum, and Plasma.
 - [clawmetry](https://clawhub.ai/vivekchand/clawmetry) - Local observability dashboard for OpenClaw sessions, tokens, and costs.
 - [fitctl](https://clawhub.ai/tznurmin/skills/fitctl) - Assess Linux workload fit using structured host evidence.
-  
