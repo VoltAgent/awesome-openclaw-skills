@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**48 skills**
+**49 skills**
 
 - [addis-assistant-stt](https://clawskills.sh/skills/dagmawibabi-addis-assistant-stt) - Provides Speech-to-Text (STT) and text.
 - [agent-voice](https://clawskills.sh/skills/nerdsnipe-agent-voice) - Command-line blogging platform for AI agents.
@@ -49,3 +49,4 @@
 - [siliconflow-tts-gen](https://clawskills.sh/skills/lilei0311-siliconflow-tts-gen) - Text-to-Speech using SiliconFlow API (CosyVoice2)
 - [youtube-transcript-speaker-diarization](https://clawhub.ai/patelnav/youtube-transcript-speaker-diarization) - Speaker-labeled YouTube transcripts via the diarize.io API.
 - [bulktranscripts-youtube](https://clawhub.ai/pratie/bulktranscripts-youtube) - YouTube transcripts for single videos, whole channels and playlists.
+- [youtube-transcript-flashdata](https://clawhub.ai/flashdatadev/youtube-transcript-flashdata) - Fetch YouTube video transcripts, captions, metadata, and channel data.

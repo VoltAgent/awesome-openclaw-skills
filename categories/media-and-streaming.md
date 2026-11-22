@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**84 skills**
+**85 skills**
 
 - [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.
 - [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests.
@@ -88,3 +88,4 @@
 - [xfor-bot](https://clawskills.sh/skills/thinkoffapp-xfor-bot) - Social media and messaging client for xfor.bot and Ant Farm.
 - [youtube-pro](https://clawskills.sh/skills/kjaylee-youtube-pro) - Advanced YouTube analysis, transcripts, and metadata extraction.
 - [zillow-airbnb-matcher](https://clawskills.sh/skills/freemountaindeer-zillow-airbnb-matcher) - Find properties for sale that are already generating Airbnb income.
+- [youtube-download-flashdata](https://clawhub.ai/flashdatadev/youtube-download-flashdata) - Cloud YouTube video and audio downloads to object storage.
