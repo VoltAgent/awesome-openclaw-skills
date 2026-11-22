@@ -49,3 +49,4 @@
 - [siliconflow-tts-gen](https://clawskills.sh/skills/lilei0311-siliconflow-tts-gen) - Text-to-Speech using SiliconFlow API (CosyVoice2)
 - [youtube-transcript-speaker-diarization](https://clawhub.ai/patelnav/youtube-transcript-speaker-diarization) - Speaker-labeled YouTube transcripts via the diarize.io API.
 - [bulktranscripts-youtube](https://clawhub.ai/pratie/bulktranscripts-youtube) - YouTube transcripts for single videos, whole channels and playlists.
+- [youtube-transcript](https://clawhub.ai/tubeagentkit/youtube-transcript) - YouTube transcripts, search, channels and playlists via REST API.
