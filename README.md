@@ -165,13 +165,13 @@ If you believe a skill in this list should be flagged or has a security concern,
 | | | |
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (108) | [Communication](#communication) (146) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (208) | [Speech & Transcription](#speech--transcription) (48) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (208) | [Speech & Transcription](#speech--transcription) (49) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
-| [Image & Video Generation](#image--video-generation) (173) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
+| [Image & Video Generation](#image--video-generation) (173) | [Media & Streaming](#media--streaming) (87) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
+| [Search & Research](#search--research) (346) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
 | [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (53) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
@@ -494,8 +494,9 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [openclaw-search-skills](https://clawhub.ai/blessonism/skills/openclaw-search-skills) - Multi-source deep search with structured research reports.
 - [ask-human-expert](https://clawhub.ai/maxko87/ask-human-expert) - Ask human experts for written or voice answers, or calls.
 - [keenable-web-search](https://clawhub.ai/keenable/keenable-web-search) - Keyless web search for research, news and docs via Keenable.
+- [google-search-flashdata](https://clawhub.ai/flashdatadev/google-search-flashdata) - Google Search, News, Images, Shopping, Videos, and Places JSON.
 
-> **[View all 345 skills in Search & Research →](categories/search-and-research.md)**
+> **[View all 346 skills in Search & Research →](categories/search-and-research.md)**
 </details>
 
 <details>
@@ -735,8 +736,9 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [eachlabs-music](https://clawskills.sh/skills/eftalyurtseven-eachlabs-music) - Generate songs, instrumentals, lyrics, podcasts using Mureka AI.
 - [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - CLI for ElevenLabs AI audio platform - text-to-speech, speech-to-text, voice cloning.
 - [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - Text-to-speech, sound effects, music generation, voice.
+- [youtube-download-flashdata](https://clawhub.ai/flashdatadev/youtube-download-flashdata) - Cloud YouTube video and audio downloads to object storage.
 
-> **[View all 83 skills in Media & Streaming →](categories/media-and-streaming.md)**
+> **[View all 84 skills in Media & Streaming →](categories/media-and-streaming.md)**
 </details>
 
 <details>
@@ -979,8 +981,9 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [elevenlabs-voices](https://clawskills.sh/skills/robbyczgw-cla-elevenlabs-voices) - High-quality voice synthesis with 18 personas, 32.
 - [youtube-transcript-speaker-diarization](https://clawhub.ai/patelnav/youtube-transcript-speaker-diarization) - Speaker-labeled YouTube transcripts via the diarize.io API.
 - [bulktranscripts-youtube](https://clawhub.ai/pratie/bulktranscripts-youtube) - YouTube transcripts for single videos, whole channels and playlists.
+- [youtube-transcript-flashdata](https://clawhub.ai/flashdatadev/youtube-transcript-flashdata) - Fetch YouTube video transcripts, captions, metadata, and channel data.
 
-> **[View all 48 skills in Speech & Transcription →](categories/speech-and-transcription.md)**
+> **[View all 49 skills in Speech & Transcription →](categories/speech-and-transcription.md)**
 </details>
 
 <details>
