@@ -1255,6 +1255,11 @@ You ship products with AI, but every launch still dies quietly because nobody po
 
 <br/>
 
+
+## Public Data APIs (Apify)
+
+- [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) - Agent Skills + MCP plugin (Claude Code, Codex, Copilot, Cursor, Gemini CLI, Kiro) for 18 public-data Apify Actors: SAM.gov, Grants.gov, USAspending, EU/UK tenders, council meetings, ATS jobs, company socials, Google Ads, Etsy, sports odds, Spotify.
+
 ## 🤝 Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
