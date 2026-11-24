@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**108 skills**
+**109 skills**
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -113,3 +113,4 @@
 - [upload-post](https://clawhub.ai/victorcavero14/upload-post) - Publish and schedule social media posts through one API.
 - [breakreach](https://clawhub.ai/samuelrondot/breakreach) - Schedule and publish posts on 19 social networks.
 - [email-marketing-bible](https://clawhub.ai/cosmoblk/email-marketing-bible) - Data-backed email marketing: flows, deliverability, copy and ESP control.
+- [bulkpublish](https://clawhub.ai/azeemkafridi/bulkpublish-using-bulkpublish) - Schedule and publish to real social accounts on 15 networks.
