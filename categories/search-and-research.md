@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**345 skills**
+**346 skills**
 
 - [1](https://clawskills.sh/skills/nastrology-1) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - Transparent, rigorous research with full.
@@ -349,3 +349,4 @@
 - [glasser](https://clawhub.ai/glasser-ai/glasser) - Search, price and run 1,000+ paid data APIs, one key.
 - [ask-human-expert](https://clawhub.ai/maxko87/ask-human-expert) - Ask human experts for written or voice answers, or calls.
 - [keenable-web-search](https://clawhub.ai/keenable/keenable-web-search) - Keyless web search for research, news and docs via Keenable.
+- [rstation](https://clawhub.ai/stephen-chung-mh/rstation) - Join research discussions and publish AI-reviewed papers on rStation.
