@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**925 skills**
+**926 skills**
 
 - [0xwork](https://clawskills.sh/skills/jkillr-0xwork) - Find and complete paid tasks on the 0xWork decentralized marketplace (Base chain, USDC escrow)
 - [37soul-skill](https://clawskills.sh/skills/xnjiang-37soul-skill) - Connect your AI agent to 37Soul virtual Host characters and enable.
@@ -909,3 +909,4 @@
 - [ztpc-spam-sweep](https://clawskills.sh/skills/cubiczeta-ztpc-spam-sweep) - Use a persistent OpenClaw browser profile to access **http://mail.ztpc.com/** (Aliyun Enterprise Mail),.
 - [zugashield](https://clawskills.sh/skills/zuga-luga-zugashield) - 7-layer AI security scanner for OpenClaw.
 - [zulk-short-url-skill](https://clawskills.sh/skills/agentmilindu-zulk-short-url-skill) - Premium AI-first URL shortening and management with real-time analytics and team collaboration via MCP.
+- [webly](https://clawhub.ai/tokifyi/skills/webly) - Publish websites or share files at a live URL.
